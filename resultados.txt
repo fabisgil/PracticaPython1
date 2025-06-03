@@ -1,0 +1,11 @@
+raul: [8.0], Promedio: 8.00
+ruby: [7.0], Promedio: 7.00
+luis: [5.0], Promedio: 5.00
+alan: [9.0], Promedio: 9.00
+andrea: [8.0], Promedio: 8.00
+diana: [8.0], Promedio: 8.00
+pedro: [7.0], Promedio: 7.00
+kevin: [7.0], Promedio: 7.00
+carlos: [6.0], Promedio: 6.00
+
+Mejor estudiante: alan con promedio de 9.00
